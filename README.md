@@ -8,10 +8,3 @@ A Discord bot focused on math functionality. It can perform calculations, solve 
 - Geometry calculations (area, perimeter, etc.)
 - Conversion functions (e.g., degrees to radians)
 
-## Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/math-bot.git
-   cd math-bot
